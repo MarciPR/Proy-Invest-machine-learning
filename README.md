@@ -1,10 +1,7 @@
 # Machine-Learning-project
+El modelo sin entrenar y la red neuronal del anexo se deben de abrir con Jupyter Notebooks o con Google Colab
 
-Este es el repositorio de mi proyecto de investigación de bachillerato, que consiste en una introducción a la IA
-mediante prácticas con redes neuronales y un modelo que reconoce dígitos escritos a mano del dataset MNIST.
+Para probar el funcionamiento del reconocimiento de dígitos se debe descargar el archivo .h5 junto con el TestMNIST.py,
+para usarlo en una raspberry pi con cámara hay que descargar el .h5 y el digitrecog.py, además, para instalar las librerías
+hay que seguir el siguiente tutorial: https://www.hackster.io/dhq/ai-digit-recognition-with-picamera-2c017f
 
-                        =======================================================
-
-This is my high-school research project for my senior year. It consists on an introduction to the field of AI
-accompained with two samples of code developed with the project, a classify neural network and a digit recognition 
-model trained with the MNIST dataset
